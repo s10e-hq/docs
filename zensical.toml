@@ -46,7 +46,7 @@ Copyright &copy; 2026 s10e HQ
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   {"Overview" = "index.md"},
-  {"KMS" = [
+  {"MS KMS Activation" = [
     "kms/index.md",
     {"Windows Activation" = "kms/windows.md"},
     {"Office Activation" = "kms/office.md"},
